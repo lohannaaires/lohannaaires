@@ -15,9 +15,10 @@
 
 <br>
 
-![Lohanna's Github Stats](https://github-readme-stats.vercel.app/api?username=lohannaaires&theme=nightowl&show_icons=true)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lohannaaires&theme=nightowl&show_icons=true" alt = "Lohanna's Github Stats">
+</p>
 
-<br>
-
-![Lohanna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohannaaires&count_private=true&layout=compact&theme=nightowl)
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lohannaaires&count_private=true&layout=compact&theme=nightowl" alt = "Lohanna's Most Used Languages">
+</p>
