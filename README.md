@@ -1,8 +1,8 @@
 ### Hi, I'm Lohanna.
 
-* 25-year-old woman. :raising_hand_woman: :crescent_moon: :star:
+* 26-year-old woman. :raising_hand_woman: :crescent_moon: :star:
 
-* MSc student in Computer Science at UERN - UFERSA. :books: :mag_right: :woman_student:
+* Master in Computer Science. :books: :mag_right: :woman_student:
 
 * Currently developing my skills on Android and Kotlin. :book: :woman_technologist: :coffee:
 
