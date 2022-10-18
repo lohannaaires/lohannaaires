@@ -1,6 +1,6 @@
 ### Hi, I'm Lohanna.
 
-* 26-year-old woman. :raising_hand_woman: :crescent_moon: :star:
+* 27-year-old woman. :raising_hand_woman: :crescent_moon: :star:
 
 * Master in Computer Science. :books: :mag_right: :woman_student:
 
