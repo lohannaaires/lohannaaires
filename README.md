@@ -1,10 +1,10 @@
 ### Hi, I'm Lohanna.
 
-* 27-year-old woman. :raising_hand_woman: :crescent_moon: :star:
+* 28-year-old woman. :raising_hand_woman: :crescent_moon: :star:
 
 * Master in Computer Science. :books: :mag_right: :woman_student:
 
-* Currently developing my skills on Android and Kotlin. :book: :woman_technologist: :coffee:
+* Android developer. :book: :woman_technologist: :coffee:
 
 <br>
 
